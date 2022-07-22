@@ -1,5 +1,5 @@
 
-![Public Background](https://kaladin.dev/content/images/size/w1920/2022/05/135-1350574_network-blue-wallpapper-4k-1.jpg)
+![Public Background](background_resize.jpg)
 
 # Welcome to '*Three Guys One Dev*'
 

@@ -1,5 +1,5 @@
+![malware_skull_logo](https://user-images.githubusercontent.com/12107721/215025590-e0a9feed-70fa-4464-badd-685eac36c35e.png)
 
-[![background-resize.jpg](https://i.postimg.cc/yNgF6Pw8/background-resize.jpg)](https://postimg.cc/cKWKXQxp)
 
 # Welcome to '*Three Guys One Dev*'
 
